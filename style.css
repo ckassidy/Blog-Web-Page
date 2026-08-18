@@ -154,7 +154,7 @@ nav {
 }
 
 .picture-card:nth-child(2) {
-    transform: translateY(-35px);
+    transform: translateY(-25px);
 }
 
 .picture-card:nth-child(3) {
