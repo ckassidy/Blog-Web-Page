@@ -366,7 +366,7 @@ nav {
     }
 
     .intro-text {
-        top: 120px;
+        top: 150px;
         width: 95%;
     }
 
@@ -390,7 +390,7 @@ nav {
 
     .pictures-intro {
         left: 50%;
-        bottom: 130px;
+        bottom: 120px;
         width: 94%;
         gap: 10px;
         align-items: flex-start;
